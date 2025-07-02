@@ -1,6 +1,6 @@
 {
   "latest_version": "2",
-  "is_enabled": true,
+  "is_enabled": false,
   "update_message": "❗ New version available.\nPlease update to continue.",
   "download_url": "https://example.com/my-latest-apk.apk"
 }
