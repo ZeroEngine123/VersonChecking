@@ -1,5 +1,6 @@
-continue = true
-Box2 = true
-Skin = false
-info = Welcome!
-Text2 = Loading In Normal Mode!
+{
+  "latest_version": "2",
+  "is_enabled": false,
+  "update_message": "❗ New version available.\nPlease update to continue.",
+  "download_url": "https://example.com/my-latest-apk.apk"
+}
